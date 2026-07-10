@@ -1,0 +1,1 @@
+This code uses data taken from the online quiz league results page (https://quizcentral.net/qc/Online_Quiz_League_UK_-_Results_-_Season_19) to calculate the probability that each member from one team answers a higher number of their own questions correctly than each member of the other team. This data is then displayed in a matrix.
